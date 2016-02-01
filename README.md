@@ -9,7 +9,7 @@ The purpose of this project is to collect data in the "Human Activity Recognitio
 
 3. Move **ALL** files to your working directory individually (ie out of their respective folders):
 
-Once completed, the analysis can be performed by sourcing analysis_run.R in R or R studio. Note that it requires the reshape2 package, which can be downloaded from CRAN.
+Once completed, the analysis can be performed by sourcing analysis_run.R in R or R studio. Note that it requires the dplyr package, which can be downloaded from CRAN.
 
 The output of the R script is a tidy data set, averages_data.txt.
 
