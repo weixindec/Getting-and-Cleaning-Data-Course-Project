@@ -3,8 +3,7 @@
 The purpose of this project is to collect data in the "Human Activity Recognition Using Smartphones" data set, perform an analysis (using analysis_run.R script), and output a tidy data set called averages_data.txt.
 
 ##Steps to perform prior to running the R script, analysis_run.R:
-1. Download project data from this [URL]:
-  (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
+1. Download project data from this [URL](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
 2. Uncompress the folder.
 
